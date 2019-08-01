@@ -1,0 +1,9 @@
+1) Download the zip file
+2) Unzip
+3) go to (click on) bin
+4) click on CongruentSearch (windows or Linux) or CongruentSearch.bat (PC)
+5) If necessary, authorise installation of this software
+6) Open a tab in your browser, and go to (type in) localhost:7000
+7) You should see the CongruentSearch screen
+8) Click File then Import and upload something (e.g. a pdf or a web-page)
+9) Type a query into the blue search box, e.g. "and" and hit return
